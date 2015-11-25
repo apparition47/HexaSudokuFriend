@@ -1,7 +1,7 @@
 HexaSudokuFriend
-****************
+---
 
-Purpose: A 16x16 sudoku backtracking solver.
+Purpose: A 16x16 sudoku backtracking solver for an interview way back in 2012.
 
 Platform: Created for iPhone 5 iOS 6.
 
